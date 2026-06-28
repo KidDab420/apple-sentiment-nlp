@@ -12,7 +12,7 @@ analysis, and (in the companion notebook) deep-learning and transformer models.
 ## 1. Project structure
 
 ```
-apple-sentiment-nlp/
+apple-sentiment-analysis/
 ├── data/
 │   └── Apple-Twitter-Sentiment-DFE.csv      # raw dataset (3,886 tweets)
 ├── src/

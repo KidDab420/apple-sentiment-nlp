@@ -1,0 +1,17 @@
+{
+  "n_tweets": 3798,
+  "class_distribution": {
+    "neutral": 2157,
+    "negative": 1219,
+    "positive": 422
+  },
+  "best_classical_model": "Logistic Regression",
+  "best_macro_f1": 0.6312,
+  "vader_baseline": {
+    "accuracy": 0.5453,
+    "macro_f1": 0.5166
+  },
+  "n_aspects": 12,
+  "most_negative_aspect": "protest",
+  "most_positive_aspect": "app"
+}

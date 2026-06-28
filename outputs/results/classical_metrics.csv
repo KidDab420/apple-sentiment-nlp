@@ -1,0 +1,5 @@
+Model,Accuracy,Macro Precision,Macro Recall,Macro F1,CV F1 (mean),CV F1 (std)
+Logistic Regression,0.7013,0.622,0.6448,0.6312,0.6532,0.0235
+Linear SVM,0.7079,0.6346,0.6151,0.6235,0.6534,0.0286
+Random Forest,0.7289,0.6745,0.5878,0.6117,0.6234,0.0198
+Naive Bayes,0.7039,0.674,0.5438,0.5439,0.6015,0.0179

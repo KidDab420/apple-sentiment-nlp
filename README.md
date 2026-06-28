@@ -117,8 +117,3 @@ neutral class; macro-F1 better reflects performance across all three sentiments.
 **Why VADER for opinion/ABSA scoring?** It is purpose-built for social-media text
 and gives a transparent, reproducible baseline. A fine-tuned BERT-ABSA model can
 replace the VADER scorer for higher accuracy.
-
-## 9. Support
-
-Maintainers: *<your group members / IDs>*. For coursework queries, contact the
-course instructors (see assignment cover page).
